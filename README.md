@@ -105,6 +105,6 @@ I am a software developer focused on building **automation tools, backend system
 
 <br><br>
 
-<sub>As the prescript wills.</sub>
+*As the prescript wills.*
 
 </div>
